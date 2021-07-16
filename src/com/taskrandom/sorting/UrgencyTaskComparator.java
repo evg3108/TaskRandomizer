@@ -1,6 +1,6 @@
 package com.taskrandom.sorting;
 
-import com.taskrandom.Task;
+import com.taskrandom.taskManaging.Task;
 
 import java.util.Comparator;
 
